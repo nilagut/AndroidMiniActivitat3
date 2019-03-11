@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/2b0390d71d716ee0de6e1f7e7b1cac1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/599c5e396963de0af6dc4357495a3b32/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d484cc72caa6e377059ca44524bd71c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7948fa4cdf02e0d19612ce6b4a67e778/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/db745e091df814621f44559d4c26249c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ea217a63e2180828dd23ee0d5a1b8e90/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/101ab4e512018c6c355a9068ec247c2e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ca2dfcf8a2f0b5643551036b90f89602/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e406ec72f3eca5d5a307d94cae8b2805/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c04683663ddcb8371686a8c271783265/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/12353c2e42192e2cc62303ae4b2ef8b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/2358eb2220be8e22c22d798e38a80142/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e96c0f3aff4eaed9833767a266f98d0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dac54bd225afea3664387fe148b473ed/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/740e9f01cf0268301fd2cd5dc16ad2df/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2942aa0916c324e98c3c2b7e75740ca9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ad8c33142c1e230d435048bbf42fc487/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e83e5969779cbc2fabe6994eabf59e96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d852176a1bfc74afdbd229ed085e1b78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a604c58c9e0f5d2e0db04eefd455dac6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8695bf2740e6312ee950f3d34e29259a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b76daa5dd33868536c9493e37ff584e9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1ea2cb47e0f28d1d926dc3212a758baa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/dddeaaa67dddaabec4fb3d83e5371f2b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c87090bf5ed2c99925ad29d49cd677d2/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:7:5-69
+	android:name
+		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:7:22-66
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:8:22-69
+application
+ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:11:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dac54bd225afea3664387fe148b473ed/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dac54bd225afea3664387fe148b473ed/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/740e9f01cf0268301fd2cd5dc16ad2df/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/740e9f01cf0268301fd2cd5dc16ad2df/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dac54bd225afea3664387fe148b473ed/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.example.surtidointentimpl.MainActivity
+ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:17:13-70
+intent-filter#android.intent.action.MAIN+android.intent.action.VIEW+android.intent.category.LAUNCHER
+ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:20:25-66
+action#android.intent.action.VIEW
+ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/2b0390d71d716ee0de6e1f7e7b1cac1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/2b0390d71d716ee0de6e1f7e7b1cac1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/599c5e396963de0af6dc4357495a3b32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/599c5e396963de0af6dc4357495a3b32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d484cc72caa6e377059ca44524bd71c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d484cc72caa6e377059ca44524bd71c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7948fa4cdf02e0d19612ce6b4a67e778/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7948fa4cdf02e0d19612ce6b4a67e778/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/db745e091df814621f44559d4c26249c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/db745e091df814621f44559d4c26249c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ea217a63e2180828dd23ee0d5a1b8e90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ea217a63e2180828dd23ee0d5a1b8e90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/101ab4e512018c6c355a9068ec247c2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/101ab4e512018c6c355a9068ec247c2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ca2dfcf8a2f0b5643551036b90f89602/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ca2dfcf8a2f0b5643551036b90f89602/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e406ec72f3eca5d5a307d94cae8b2805/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e406ec72f3eca5d5a307d94cae8b2805/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c04683663ddcb8371686a8c271783265/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c04683663ddcb8371686a8c271783265/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/12353c2e42192e2cc62303ae4b2ef8b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/12353c2e42192e2cc62303ae4b2ef8b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/2358eb2220be8e22c22d798e38a80142/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/2358eb2220be8e22c22d798e38a80142/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e96c0f3aff4eaed9833767a266f98d0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e96c0f3aff4eaed9833767a266f98d0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dac54bd225afea3664387fe148b473ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dac54bd225afea3664387fe148b473ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/740e9f01cf0268301fd2cd5dc16ad2df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/740e9f01cf0268301fd2cd5dc16ad2df/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2942aa0916c324e98c3c2b7e75740ca9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2942aa0916c324e98c3c2b7e75740ca9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ad8c33142c1e230d435048bbf42fc487/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ad8c33142c1e230d435048bbf42fc487/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e83e5969779cbc2fabe6994eabf59e96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e83e5969779cbc2fabe6994eabf59e96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d852176a1bfc74afdbd229ed085e1b78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d852176a1bfc74afdbd229ed085e1b78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a604c58c9e0f5d2e0db04eefd455dac6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a604c58c9e0f5d2e0db04eefd455dac6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8695bf2740e6312ee950f3d34e29259a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8695bf2740e6312ee950f3d34e29259a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b76daa5dd33868536c9493e37ff584e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b76daa5dd33868536c9493e37ff584e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1ea2cb47e0f28d1d926dc3212a758baa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1ea2cb47e0f28d1d926dc3212a758baa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/dddeaaa67dddaabec4fb3d83e5371f2b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/dddeaaa67dddaabec4fb3d83e5371f2b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c87090bf5ed2c99925ad29d49cd677d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c87090bf5ed2c99925ad29d49cd677d2/AndroidManifest.xml:20:5-44
+INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml
