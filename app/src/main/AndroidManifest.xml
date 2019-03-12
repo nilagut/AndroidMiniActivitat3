@@ -19,6 +19,10 @@
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <action android:name="android.intent.action.VIEW" />
+                <action android:name="android.intent.action.CALL" />
+                <action android:name="android.intent.action.DIAL" />
+                <action android:name="android.intent.action.SENDTO" />
+                <action android:name="android.intent.action.WEB_SEARCH" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:2:1-28:12
+ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:2:1-32:12
 MERGED from [com.android.support:support-v4:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/2b0390d71d716ee0de6e1f7e7b1cac1a/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-media-compat:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/599c5e396963de0af6dc4357495a3b32/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d484cc72caa6e377059ca44524bd71c3/AndroidManifest.xml:17:1-22:12
@@ -29,9 +29,9 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/nilagut/.gradle/cach
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1ea2cb47e0f28d1d926dc3212a758baa/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/dddeaaa67dddaabec4fb3d83e5371f2b/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c87090bf5ed2c99925ad29d49cd677d2/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:2:1-32:12
 	package
 		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:3:5-44
 		INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml
@@ -55,7 +55,7 @@ ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/Andr
 	android:name
 		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:8:22-69
 application
-ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:11:5-26:19
+ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:11:5-30:19
 MERGED from [com.android.support:support-compat:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dac54bd225afea3664387fe148b473ed/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dac54bd225afea3664387fe148b473ed/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/nilagut/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/740e9f01cf0268301fd2cd5dc16ad2df/AndroidManifest.xml:22:5-23:19
@@ -71,13 +71,13 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/nilagut/.gra
 	android:theme
 		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:15:9-40
 activity#com.example.surtidointentimpl.MainActivity
-ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:16:9-24:20
+ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:16:9-28:20
 	android:label
 		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:18:13-45
 	android:name
 		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:17:13-70
-intent-filter#android.intent.action.MAIN+android.intent.action.VIEW+android.intent.category.LAUNCHER
-ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:19:13-23:29
+intent-filter#android.intent.action.CALL+android.intent.action.DIAL+android.intent.action.MAIN+android.intent.action.SENDTO+android.intent.action.VIEW+android.intent.action.WEB_SEARCH+android.intent.category.LAUNCHER
+ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:19:13-27:29
 action#android.intent.action.MAIN
 ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:20:17-69
 	android:name
@@ -86,10 +86,26 @@ action#android.intent.action.VIEW
 ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:21:17-69
 	android:name
 		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:21:25-66
-category#android.intent.category.LAUNCHER
-ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:22:17-77
+action#android.intent.action.CALL
+ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:22:27-74
+		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:22:25-66
+action#android.intent.action.DIAL
+ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:23:25-66
+action#android.intent.action.SENDTO
+ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:24:17-71
+	android:name
+		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:24:25-68
+action#android.intent.action.WEB_SEARCH
+ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:25:17-75
+	android:name
+		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:25:25-72
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml:26:27-74
 uses-sdk
 INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/nilagut/AndroidStudioProjects/MiniActivitat3/app/src/main/AndroidManifest.xml

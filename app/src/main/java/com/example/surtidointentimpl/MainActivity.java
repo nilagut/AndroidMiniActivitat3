@@ -6,6 +6,7 @@ import android.app.Activity;
 import android.app.SearchManager;
 import android.content.Intent;
 import android.content.pm.PackageManager;
+import android.database.Cursor;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
@@ -16,6 +17,8 @@ import android.view.Menu;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
+import android.widget.ImageView;
+import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends Activity implements OnClickListener{
@@ -35,6 +38,7 @@ public class MainActivity extends Activity implements OnClickListener{
 		Button btnMarcar = findViewById(R.id.buttonMarcar);
 		Button btnSMS = findViewById(R.id.buttonSMS);
 		Button btnMail = findViewById(R.id.buttonMail);
+		Button btnImatge = findViewById(R.id.buttonGallery);
 
 		btn1.setOnClickListener(this);
 		btn2.setOnClickListener(this);
@@ -45,6 +49,7 @@ public class MainActivity extends Activity implements OnClickListener{
 		btnMarcar.setOnClickListener(this);
 		btnSMS.setOnClickListener(this);
 		btnMail.setOnClickListener(this);
+		btnImatge.setOnClickListener(this);
 
 
 		if (Build.VERSION.SDK_INT >= 23)
@@ -90,9 +95,9 @@ public class MainActivity extends Activity implements OnClickListener{
 				break;
 			case R.id.button6:
 				Toast.makeText(this, getString(R.string.opcio6), Toast.LENGTH_LONG).show();
-				in = new Intent(Intent.ACTION_VIEW);
-				in.setData(ContactsContract.Contacts.CONTENT_URI);
-				startActivity(in);
+				in = new Intent(Intent.ACTION_PICK);
+				in.setType(ContactsContract.CommonDataKinds.Phone.CONTENT_TYPE);
+				startActivityForResult(in, 5);
 				break;
 			case R.id.buttonMarcar:
 				Toast.makeText(this, getString(R.string.opcioMarcar), Toast.LENGTH_LONG).show();
@@ -112,6 +117,11 @@ public class MainActivity extends Activity implements OnClickListener{
 				in.putExtra(Intent.EXTRA_TEXT, getString(R.string.mail));
 				startActivity(in);
 				break;
+			case R.id.buttonGallery:
+                Toast.makeText(this, getString(R.string.opcioImage), Toast.LENGTH_LONG).show();
+                in = new Intent(Intent.ACTION_PICK, android.provider.MediaStore.Images.Media.INTERNAL_CONTENT_URI);
+                startActivityForResult(in,10);
+                break;
 		}
 	}
 
@@ -140,4 +150,24 @@ public class MainActivity extends Activity implements OnClickListener{
 		getMenuInflater().inflate(R.menu.main, menu);
 		return true;
 	}
+
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        if (requestCode == 5 && resultCode == RESULT_OK && null != data) {
+            TextView text = (TextView) findViewById(R.id.textView);
+            Uri uri = data.getData();
+            String[] proj = new String[]{ContactsContract.CommonDataKinds.Phone.DISPLAY_NAME};
+            Cursor cursor = getContentResolver().query(uri, proj, null, null, null);
+            if (cursor != null && cursor.moveToFirst()) {
+                int numIndex = cursor.getColumnIndex(ContactsContract.CommonDataKinds.Phone.DISPLAY_NAME);
+                text.setText(cursor.getString(numIndex));
+            }
+        }
+
+        if (requestCode == 10 && resultCode == RESULT_OK && null != data) {
+            Uri uri = data.getData();
+            ImageView image = findViewById(R.id.imatge);
+            image.setImageURI(uri);
+        }
+    }
 }

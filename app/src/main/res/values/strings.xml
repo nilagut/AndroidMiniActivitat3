@@ -19,6 +19,7 @@
     <string name="BotoSMS">Enviar SMS</string>
     <string name="BotoMail">Enviar email</string>
     <string name="Boto6">Acceder Contactos</string>
+    <string name="BotoGaleria">Acceder Galería imágenes</string>
     <string name="telef">666666666</string>
     <string name="contact">646888777</string>
     <string name="correu">sss@udl.cat</string>
@@ -34,6 +35,7 @@
     <string name="opcioMail">Enviant email</string>
     <string name="Message">Hi there! I am using SMS :)</string>
     <string name="mail">This is your email!</string>
+    <string name="opcioImage">Accediendo a galeria</string>
 
 
 </resources>
